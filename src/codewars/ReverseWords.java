@@ -1,6 +1,6 @@
 package codewars;
 
-public class Kata {
+public class ReverseWords {
 	  public static String reverseWords(final String original)
 	  {
 	    // Have at it
